@@ -2,9 +2,9 @@
 
 ## Description:
 
- This script is the skeleton installation of taiga production install - taigaio.github.io/taiga-doc/dist/setup-production.html
- It doesn't configure events as it is marked as optional
- start.sh is the main script creating a new user 'taiga' and running prerequisites install scripts under it.
+ This script is the skeleton installation of taiga production install - taigaio.github.io/taiga-doc/dist/setup-production.html   
+ It doesn't configure events as it is marked as optional   
+ start.sh is the main script creating a new user 'taiga' and running prerequisites install scripts under it.   
 
 ## Was built with:
 
